@@ -4,7 +4,7 @@ import React from 'react'
 const Home = () => {
   return (
     <View>
-      <Text>Ankit kumawat</Text>
+      <Text>Ankit </Text>
     </View>
   )
 }
