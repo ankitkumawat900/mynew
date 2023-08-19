@@ -4,7 +4,7 @@ import React from 'react'
 const Home = () => {
   return (
     <View>
-      <Text>Ankit k</Text>
+      <Text>Ankit kumawat here react native developer</Text>
     </View>
   )
 }
